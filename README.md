@@ -17,3 +17,6 @@ Git ignore files will be used in some of the projects that will be needing them.
 Each project will have it's own repository. That means there will be a total of 5 repositories, including this one. Each repository will link back to the main Kanban Project that we created for Project 1
 ## Storage of Credentials
 The secret credentials will be stored locally for now, and if it is needed it can be requested. In the future we will look into storing them in either Azure ID or using an encryption program to store the files, and then share a seed file which can be used to decrypt the files.
+
+#### PLEASE NOTE
+Sources file is in the repo

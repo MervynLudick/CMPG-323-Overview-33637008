@@ -1,6 +1,10 @@
 # CMPG-323-Overview-33637008
 ## Project Structure for the semester
 There will be one github Kanban project that will be used to keep track of the work of all 5 projects that are due for this semester, as well as the Portfolio of evidence. Each project will however have their own Repository.
+
+### Diagram to illustrate project linkage with repos
+![Blank diagram (1)](https://user-images.githubusercontent.com/56234654/185401219-92e0ceb9-908e-4770-bae1-20ede6bab909.png)
+
 ## Branching Strategy
 I will be employing a very basic branching strategy. It will consist of a Main branch, and any new features that get added will be branched of from main, as soon as the feature is done it will be merged back into Main. Any bugfixes or hotfixes will also require a branch to be created from main, and when done it can be branched back into main. I prefer this above creating a main and development branch as it keeps things more simple and organised.
 

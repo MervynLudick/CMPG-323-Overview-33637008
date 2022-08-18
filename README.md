@@ -4,7 +4,7 @@ There will be one github Kanban project that will be used to keep track of the w
 ## Branching Strategy
 I will be employing a very basic branching strategy. It will consist of a Main branch, and any new features that get added will be branched of from main, as soon as the feature is done it will be merged back into Main. Any bugfixes or hotfixes will also require a branch to be created from main, and when done it can be branched back into main. I prefer this above creating a main and development branch as it keeps things more simple and organised.
 
-###Below is an image to illustrate the 2 different branching strategies that we will employ on our projects
+### Below is an image to illustrate the 2 different branching strategies that we will employ on our projects
 ![branchingStrategy](https://user-images.githubusercontent.com/56234654/185398377-2df52459-1fec-4119-a90c-52d7ffbec85d.png)
 
 ## Usage of .gitignore files

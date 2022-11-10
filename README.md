@@ -20,3 +20,13 @@ The secret credentials will be stored locally for now, and if it is needed it ca
 
 #### PLEASE NOTE
 Sources file is in the repo
+
+# Project 2
+Project 2 has been succesffully completed, all went well
+# Project 3
+Project 3 has been succesffully completed, all went well. This was My Favorite project out of all of them
+# Project 4
+Due to time constraints I could not fully complete project 4, I did learn how to use UI Path, and saw the benefits that it could bring to my daily life. Maybe if I had some automations set up I would have had time to complete the Automation project XD/
+# Project 5
+Project 5 has been submitted, I learnt a few new things. Power BI being one of them.
+
